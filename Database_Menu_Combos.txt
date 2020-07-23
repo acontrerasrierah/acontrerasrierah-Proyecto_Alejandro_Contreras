@@ -1,0 +1,2 @@
+Tri Burguer//['Chess Burguer', 'Vegie Burguer', 'Bacon & Egg Burguer']//33.2456
+Fritos Mixtos//['Clamares Fritos', 'Camarones Fritos', 'Sardinas Fritas']//52.2
